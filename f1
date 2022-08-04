@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.leadapp -DartifactId=demo-mvn -DpackageName=come.leadapp.mvndemo -Dversion=1.0
